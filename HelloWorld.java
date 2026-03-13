@@ -5,5 +5,6 @@ public class HelloWorld{
     int b=10;
     int sum =a+b;
     System.out.println("sum is : "+sum);
+    System.out.println("sum is : "+sum);
   }
 }
